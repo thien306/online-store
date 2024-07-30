@@ -1,0 +1,90 @@
+{
+    "orders": [
+      {
+        "orderId": "200",
+        "purchaseDate": "21/03/2020",
+        "products": [
+          {
+            "id": "101",
+            "name": "Iphone X",
+            "price": 100
+          }
+        ],
+        "quantity": 1,
+        "totalAmount": 1000,
+        "id": "26cb"
+      },
+      {
+        "orderId": "201",
+        "purchaseDate": "15/03/2020",
+        "products": [
+          {
+            "id": 102,
+            "name": "Samsung Note 10",
+            "price": 1200
+          }
+        ],
+        "quantity": 2,
+        "totalAmount": 2400,
+        "id": "e200"
+      },
+      {
+        "orderId": "202",
+        "purchaseDate": "11/01/2020",
+        "products": [
+          {
+            "id": 103,
+            "name": "Dell Vostrol 5302",
+            "price": 400
+          }
+        ],
+        "quantity": 3,
+        "totalAmount": 1200,
+        "id": "1e58"
+      }
+      
+    ],
+
+
+
+
+    "products": [
+      {
+        "id": "101",
+        "name": "Iphone X",
+        "price": 1000,
+        "category": "Điện thoại"
+      },
+      {
+        "id": "102",
+        "name": "Samsung Note 10",
+        "price": 1200,
+        "category": "Điện thoại"
+      },
+      {
+        "id": "103",
+        "name": "Dell Vostrol 5302",
+        "price": 400,
+        "category": "Laptop"
+      },
+      {
+        "id": "104",
+        "name": "Acer 5302",
+        "price": 600,
+        "category": "Laptop"
+      },
+      {
+        "id": "105",
+        "name": "Iphone 8 plus 128GB",
+        "price": 500,
+        "category": "Điện thoại"
+      },
+      {
+        "id": "106",
+        "name": "Oppo F10",
+        "price": 350,
+        "category": "Điện thoại"
+      }
+    ]
+  }
+  
